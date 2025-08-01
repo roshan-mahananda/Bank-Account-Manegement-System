@@ -1,0 +1,66 @@
+### IntelliJ IDEA ###
+out/
+!**/src/main/**/out/
+!**/src/test/**/out/
+
+### Eclipse ###
+.apt_generated
+.classpath
+.factorypath
+.project
+.settings
+.springBeans
+.sts4-cache
+bin/
+!**/src/main/**/bin/
+!**/src/test/**/bin/
+
+### NetBeans ###
+/nbproject/private/
+/nbbuild/
+/dist/
+/nbdist/
+/.nb-gradle/
+
+### VS Code ###
+.vscode/
+
+### Mac OS ###
+.DS_Store
+
+# 🗂 Java-specific ignores
+
+*.class
+*.jar
+*.war
+*.ear
+
+# 💥 Logs
+*.log
+
+# 🔄 Package Files
+*.iml
+*.ipr
+*.iws
+
+# 🧠 IDEs
+# IntelliJ
+.idea/
+
+# Eclipse
+*.classpath
+*.project
+*.settings/
+
+# VS Code
+
+# 💾 OS Files
+Thumbs.db
+
+# 🧪 Test Output
+/test-output/
+
+# 💣 Backup files
+*~
+*.swp
+*.bak
